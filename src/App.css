@@ -1,0 +1,77 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.tabledesign {
+  background-color: #987899;
+  width: 65%;
+
+  /* padding: 30px 40px 80px 100px; */
+}
+
+.flex-container {
+  display: flex;
+  height: 100vh;
+}
+
+.create_account {
+  width: 35%;
+  padding: 0 5%;
+}
+
+table {
+  width: 90%;
+  margin: 20px auto;
+  background-color: white;
+  text-align: center;
+  /* border-collapse: collapse;
+    border-spacing: 0; */
+
+}
+
+.tabledesign h2 {
+  margin: 40px 40px 10px 40px;
+  color: #fff;
+  /* padding: 20px; */
+}
+
+th {
+  background-color: #E8E8E8;
+}
+
+th,
+td {
+  padding: 10px 12px;
+  border: 1px solid #b4b4b4;
+}
+
+.create_account h2 {
+  margin: 40px 40px 10px 40px;
+  margin-bottom: 30px;
+}
+
+.create_account input,
+.create_account select {
+  width: 90%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: transparent;
+  box-shadow: 4px 3px rgba(0, 0, 0, 0.1);
+  background-color: #F3F3F3;
+  color: #848484;
+  border-radius: 6px;
+}
+
+.gender input {
+  width: 20px;
+}
+
+button {
+  text-align: center;
+  width: 60%;
+  border: 1px solid #1E1E1E;
+  background-color: #fff;
+  border-radius: 100px;
+}
