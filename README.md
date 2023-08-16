@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# REACT PROJECT
 
 Here is a picture of this purely front-end application built with react
 
