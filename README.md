@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Here is a picture of th is purely front-end application built with react
+Here is a picture of this purely front-end application built with react
 
 ![Picture of the Application](./README_PICS/Screenshot%202023-08-16%20153710.png)
 
